@@ -7,11 +7,11 @@
 
     <variable
       name="vm"
-      type="com.skydoves.marvelheroes.view.ui.main.MainViewModel" />
+      type="cucerdariancatalin.marvel.view.ui.main.MainViewModel" />
 
     <variable
       name="adapter"
-      type="com.skydoves.marvelheroes.view.adapter.PosterAdapter" />
+      type="cucerdariancatalin.marvel.view.adapter.PosterAdapter" />
 
   </data>
 

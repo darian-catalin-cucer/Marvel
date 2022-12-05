@@ -7,7 +7,7 @@
 
     <variable
       name="details"
-      type="com.skydoves.marvelheroes.model.PosterDetails" />
+      type="cucerdariancatalin.marvel.model.PosterDetails" />
   </data>
 
   <androidx.constraintlayout.widget.ConstraintLayout
