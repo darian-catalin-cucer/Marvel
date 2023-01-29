@@ -1,3 +1,23 @@
-Marvel was started in 1939 by Martin Goodman as Timely Comics,[3] and by 1951 had generally become known as Atlas Comics. The Marvel era began in 1961, the year that the company launched The Fantastic Four and other superhero titles created by Stan Lee, Jack Kirby, Steve Ditko and many others. The Marvel brand, which had been used over the years, was solidified as the company's primary brand.
+# Marvel Android App
 
-Marvel counts among its characters such well-known superheroes as Spider-Man, Iron Man, Captain America, Thor, Doctor Strange, Hulk, Wolverine, and Captain Marvel, as well as popular superhero teams such as the Avengers, the X-Men, the Fantastic Four, and the Guardians of the Galaxy. Its stable of well-known supervillains includes the likes of Doctor Doom, Magneto, Ultron, Thanos, Green Goblin, Galactus, Loki, and Kingpin. Most of Marvel's fictional characters operate in a single reality known as the Marvel Universe, with most locations mirroring real-life places; many major characters are based in New York City.[4] Additionally, Marvel has published several licensed properties from other companies. This includes Star Wars comics twice from 1977 to 1986 and again since 2015.
+An app dedicated to Marvel fans.
+
+## Features
+
+- Latest news and videos from the Marvel universe
+- Comprehensive database of Marvel movies, TV shows, and comics
+- Information on your favorite characters, including Spider-Man, Iron Man, Captain America, and more
+
+## Getting Started
+
+1. Clone the repository: `git clone https://github.com/[username]/marvel-android-app.git`
+2. Open the project in Android Studio
+3. Build and run the app on an emulator or physical device
+
+## Contributing
+
+We welcome contributions to the project. If you want to contribute, please fork the repository and submit a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
